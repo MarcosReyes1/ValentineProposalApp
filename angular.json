@@ -30,6 +30,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/ValentineProposalApp/",
               "budgets": [
                 {
                   "type": "initial",
